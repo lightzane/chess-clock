@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200.17299"
+   height="200.64972"
+   viewBox="0 0 52.962435 53.088571"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-0.00958403,-0.0093637)">
+    <path
+       id="rect358"
+       style="fill:#000000;fill-opacity:0.996078;stroke:#000000;stroke-width:0.423772;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.996078"
+       d="m 14.254019,0.2212497 c -7.7739024,0 -14.03254897,6.2852118 -14.03254897,14.0921113 V 26.992593 H 52.704719 V 14.313361 c 0,-7.8068995 -6.258647,-14.0921113 -14.03255,-14.0921113 z" />
+    <path
+       id="rect358-2"
+       style="fill:#10b981;fill-opacity:1;stroke:#10b981;stroke-width:0.423772;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.996078"
+       d="m 38.727586,52.886047 c 7.773903,0 14.032549,-6.285211 14.032549,-14.092111 V 26.114704 H 0.27688581 v 12.679232 c 0,7.8069 6.25864739,14.092111 14.03255019,14.092111 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#10b981;fill-opacity:1;stroke:#10b981;stroke-width:0.349999;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.996078"
+       x="5.1039801"
+       y="44.049572"
+       id="text4060"><tspan
+         id="tspan4058"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.35"
+         x="5.1039801"
+         y="44.049572">05:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#10b981;fill-opacity:1;stroke:#10b981;stroke-width:0.349999;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.996078"
+       x="-47.371086"
+       y="-8.2729454"
+       id="text4268"
+       transform="scale(-1)"><tspan
+         id="tspan4266"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.35"
+         x="-47.371086"
+         y="-8.2729454">05:00</tspan></text>
+  </g>
+</svg>
